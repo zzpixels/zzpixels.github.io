@@ -50,3 +50,21 @@
 | [Surging Sparks Booster Bundle](https://popfindr.com/lookup/BestBuy/6598561?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Surging%20Sparks%20Booster%20Bundle) | 6598561 | BestBuy |
 | [Surging Sparks Sleeved Booster Pack](https://popfindr.com/lookup/BestBuy/6598560?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Surging%20Sparks%20Sleeved%20Booster%20Pack) | 6598560 | BestBuy |
 | [Surging Sparks Booster Box](https://popfindr.com/lookup/BestBuy/6598558?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Surging%20Sparks%20Booster%20Box) | 6598558 | BestBuy |
+| [Obsidian Flames Booster Bundle](https://popfindr.com/lookup/BestBuy/6546727?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Obsidian%20Flames%20Booster%20Bundle) | 6546727 | BestBuy |
+| [Obsidian Flames Sleeved Booster Pack](https://popfindr.com/lookup/BestBuy/6546722?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Obsidian%20Flames%20Sleeved%20Booster%20Pack) | 6546722 | BestBuy |
+| [Obsidian Flames 3 Pack Blister](https://popfindr.com/lookup/BestBuy/6546725?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Obsidian%20Flames%203%20Pack%20Blister) | 6546725 | BestBuy |
+| [Twilight Masquerade ETB](https://popfindr.com/lookup/BestBuy/6578904?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Twilight%20Masquerade%20ETB) | 6578904 | BestBuy |
+| [Twilight Masquerade Sleeved Booster Pack](https://popfindr.com/lookup/BestBuy/6578902?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Twilight%20Masquerade%20Sleeved%20Booster%20Pack) | 6578902 | BestBuy |
+| [Twilight Masquerade Booster Box](https://popfindr.com/lookup/BestBuy/6578901?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Twilight%20Masquerade%20Booster%20Box) | 6578901 | BestBuy |
+| [Paradox Rift ETB](https://popfindr.com/lookup/BestBuy/6557811?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Paradox%20Rift%20ETB) | 6557811 | BestBuy |
+| [Paradox Rift Sleeved Booster Pack](https://popfindr.com/lookup/BestBuy/6557810?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Paradox%20Rift%20Sleeved%20Booster%20Pack) | 6557810 | BestBuy |
+| [Paradox Rift Checklane Blister](https://popfindr.com/lookup/BestBuy/6612945?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Paradox%20Rift%20Checklane%20Blister) | 6612945 | BestBuy |
+| [Paradox Rift 3 Pack Blister](https://popfindr.com/lookup/BestBuy/6557808?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Paradox%20Rift%203%20Pack%20Blister) | 6557808 | BestBuy |
+| [Paradox Destinies Tins](https://popfindr.com/lookup/BestBuy/6587827?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Paradox%20Destinies%20Tins) | 6587827 | BestBuy |
+| [Slashing Legends Tin](https://popfindr.com/lookup/BestBuy/6621083?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Slashing%20Legends%20Tin) | 6621083 | BestBuy |
+| [Charizard EX Special Collection](https://popfindr.com/lookup/BestBuy/6616793?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Charizard%20EX%20Special%20Collection) | 6616793 | BestBuy |
+| [Journey Together Booster Bundle](https://popfindr.com/lookup/BestBuy/6614264?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Journey%20Together%20Booster%20Bundle) | 6614264 | BestBuy |
+| [Journey Together ETB](https://popfindr.com/lookup/BestBuy/6614267?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Journey%20Together%20ETB) | 6614267 | BestBuy |
+| [Journey Together Booster Box](https://popfindr.com/lookup/BestBuy/6614262?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Journey%20Together%20Booster%20Box) | 6614262 | BestBuy |
+| [Journey Together Sleeved Booster Pack](https://popfindr.com/lookup/BestBuy/6614259?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Journey%20Together%20Sleeved%20Booster%20Pack) | 6614259 | BestBuy |
+| [Journey Together 3 Pack Blister](https://popfindr.com/lookup/BestBuy/6614260?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Journey%20Together%203%20Pack%20Blister) | 6614260 | BestBuy |
