@@ -1,5 +1,9 @@
 # PopFindr Product Lookup
 
+<table>
+<tr>
+<td>
+
 ## GameStop
 
 | Product Name                               | SKU     | PopFindr URL |
@@ -34,7 +38,8 @@
 | [Journey Together Sleeved Booster Pack](https://popfindr.com/lookup/GameStop/420051?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Journey%20Together%20Sleeved%20Booster%20Pack) | 420051 | GameStop |
 | [Journey Together 3 Pack Blister](https://popfindr.com/lookup/GameStop/420200?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Journey%20Together%203%20Pack%20Blister) | 420200 | GameStop |
 
----
+</td>
+<td>
 
 ## BestBuy
 
@@ -68,3 +73,7 @@
 | [Journey Together Booster Box](https://popfindr.com/lookup/BestBuy/6614262?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Journey%20Together%20Booster%20Box) | 6614262 | BestBuy |
 | [Journey Together Sleeved Booster Pack](https://popfindr.com/lookup/BestBuy/6614259?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Journey%20Together%20Sleeved%20Booster%20Pack) | 6614259 | BestBuy |
 | [Journey Together 3 Pack Blister](https://popfindr.com/lookup/BestBuy/6614260?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Journey%20Together%203%20Pack%20Blister) | 6614260 | BestBuy |
+
+</td>
+</tr>
+</table>
