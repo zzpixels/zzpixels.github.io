@@ -2,7 +2,7 @@
 
 ## GameStop
 
-| Product Name                               | SKU     | PopFindr URL |
+| Product Name                               | SKU     | Retailer |
 |-------------------------------------------|---------|--------------|
 | [Prismatic ETB](https://popfindr.com/lookup/GameStop/417631?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Prismatic%20ETB) | 417631 | GameStop |
 | [Prismatic Booster Bundle](https://popfindr.com/lookup/GameStop/418865?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Prismatic%20Booster%20Bundle) | 418865 | GameStop |
@@ -38,7 +38,7 @@
 
 ## BestBuy
 
-| Product Name                               | SKU     | PopFindr URL |
+| Product Name                               | SKU     | Retailer |
 |-------------------------------------------|---------|--------------|
 | [151 Booster Bundle](https://popfindr.com/lookup/BestBuy/6548371?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=151%20Booster%20Bundle) | 6548371 | BestBuy |
 | [Prismatic Booster Bundle](https://popfindr.com/lookup/BestBuy/6608206?image=https%3A%2F%2Fi.imgur.com%2FlPU82i9.png&title=Prismatic%20Booster%20Bundle) | 6608206 | BestBuy |
